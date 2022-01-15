@@ -1,10 +1,15 @@
 # Calculate-Worker-Gross-and-Net-Pay
 
-File Contents
+Contents
 ---------------------
+* File Contents
 * Introduction
 * Algorithm
 * Requirements
+
+## File Contents
+	
+	Calculate_Worker_Pay.cpp
 
 ## Introduction
 Book practice project from Problem Solving With C++ Chapter 2. Project 6.
